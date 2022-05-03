@@ -1,0 +1,3 @@
+npm i --save-dev jest ts-jest @types/jest
+npm install --save-dev @babel/preset-typescript
+npm install --save-dev babel-jest @babel/core @babel/preset-env
